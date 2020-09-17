@@ -7,8 +7,6 @@ from selenium import webdriver
 
 op = webdriver.ChromeOptions()
 
-op.add_argument('headless')
-
 chrome = webdriver.Chrome('./chromedriver.exe', options=op)
 english = enchant.Dict("en_US")
 liperm = []

@@ -1,1 +1,1 @@
-Mugilan Ganesan (@MugilanGN) wrote ~50% of the code. He took care of finding the different permutations of the letters available.
+Mugilan Ganesan (@MugilanGN) wrote ~50% of the code. He helped with selenium and automating chrome.
